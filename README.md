@@ -30,6 +30,7 @@
 * Release 3.7.2 OTA new car. <br>
 * Open access to version 3.7.0. <br>
 
+
 **2022-02-16：**
 * Update 3.7.0 new car list. <br>
 
@@ -56,3 +57,5 @@
 * Optimize file directories, add initialization and maximize file versions.
 
 ![image](https://user-images.githubusercontent.com/82057639/236813827-bdd3fecc-374a-4826-bad7-1f5db276ef0f.png)
+
+<img width="424" alt="British_event" src="https://user-images.githubusercontent.com/82057639/236813961-3840fb9a-ea43-4b9e-90d7-47278ddd6ddd.png">

@@ -1,8 +1,7 @@
 # CSR-Racing-2
 Because of the large racing catalog, we recommend using the Quick Find feature that comes with the project in order to make it easier for you to find the cars.<br>
-Quickly find car links →  https://git.io/JfApq  <br>
+Quickly find car links 
 
-To be the first to get project updates, please join our Discord channel at →  https://discord.gg/XVZbNan  <br>
 
 **Repository Update Log:**<br>
 

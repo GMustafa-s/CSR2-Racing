@@ -1,7 +1,4 @@
 # CSR-Racing-2
-Because of the large racing catalog, we recommend using the Quick Find feature that comes with the project in order to make it easier for you to find the cars.<br>
-Quickly find car links 
-
 
 **Repository Update Log:**<br>
 
@@ -57,6 +54,16 @@ Quickly find car links
 
 **2021-10-24：**
 * Optimize file directories, add initialization and maximize file versions.
+
+https://csr-racing.com/en/posts/3-3-dev-update-and-europe-series-overview/
+
+
+
+
+
+
+
+
 
 
 

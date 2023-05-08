@@ -55,4 +55,4 @@
 **2021-10-24：**
 * Optimize file directories, add initialization and maximize file versions.
 
-https://csr-racing.com/en/posts/3-3-dev-update-and-europe-series-overview/](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/Fast%26furious1.png
+https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/Fast%26furious1.png

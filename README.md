@@ -58,14 +58,5 @@ Quickly find car links
 **2021-10-24：**
 * Optimize file directories, add initialization and maximize file versions.
 
-**Important updates**<br>
-1. All cars are rolled back to unencrypted state and all cars are maximized (not including plot cars). <br>
-2. Paid purchase for new versions of cars only, $20 per version, includes all new cars. <br>
-3. Please leave a message with your email address when making payment, I will reply promptly with the Unpacking password. <br>
-4. Payment link:<br>
-[![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/paypal-blue3.png)](https://www.paypal.me/wear87)
-5. If you have any problems, questions, feedback issues with the code, please contact Discord: wear87#4510 or https://discord.gg/XVZbNan <br>
 
-Request to link your database to this project:<br>
-Please reach out to us on Discord and we'll review and grant the permission on a case by case basis.<br>
 
